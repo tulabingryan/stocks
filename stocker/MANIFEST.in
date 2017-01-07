@@ -1,0 +1,5 @@
+include *.txt
+include *.cfg
+include setup.py
+recursive-include stocker  *.py
+recursive-include test  test*.py
